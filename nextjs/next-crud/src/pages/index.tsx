@@ -5,7 +5,7 @@ import Tabela from "../components/Tabela";
 
 import useClientes from "../hooks/useClientes";
 
-export default function Home(){
+export default function Home() {
 
   const {
     cliente, 
